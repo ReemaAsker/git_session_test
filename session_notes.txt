@@ -2,3 +2,8 @@ hello
 hello i'm salem
 
 session notes done
+
+
+Git and github is very useful topic
+git is VCS
+but github is a place can create inside it many remote repos
